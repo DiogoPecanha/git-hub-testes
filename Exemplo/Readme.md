@@ -1,1 +1,1 @@
-Primeiro arquivo git
+Primeiro arquivo para commit no git
